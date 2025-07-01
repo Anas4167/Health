@@ -1067,7 +1067,7 @@ table tbody tr td {
 
 /* responsive */
 
-@media(min-width:360px) and (max-width:450px){
+@media(min-width:320px) and (max-width:450px){
     .header{
     font-family: 'Poppins', sans-serif;
     font-size: 0.8em;
